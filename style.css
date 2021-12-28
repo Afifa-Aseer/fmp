@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: black; */
+    font-family: 'Pushster', cursive;
+}
+.crl-img img{
+    height: 400px;
+}
+.bodytxt{
+     /* background-color: rgb(247, 197, 197);  */
+     background-color: black;
+}
+img{
+    width: 100%;
+}
+.logo{
+    height: 100px;
+    transform: rotate(30deg);
+    /* width: 80px; */
+}
+.background,footer{
+background-color: black !important
+}
+.card{
+    background-color: rgb(219, 138, 138) !important; 
+}
+.crd1 img{
+    height: 200px;
+}
+/* 
+.carousel1 img{
+    height: 120px;
+} */
+.card:hover{
+    transform: scale(1.05);
+ box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+.app img{
+    width: 150px;
+}
+.social img{
+    width: 32px;
+}
+svg{
+    width: 25px;
+
+}
+a{
+    color: rgb(219, 138, 138)!important;
+}
+
+.last img{
+    height: 180px;
+}
+
+.bg {
+   height: 350px;
+  }
